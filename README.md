@@ -10,7 +10,7 @@
 
 ## Used Technologies
 
-* Spring Boot 2.5.3
+* Spring Boot(Last Version)
 * MongoDB
 * Spring Boot Web
 * Docker
